@@ -635,6 +635,15 @@
        "tags": ["v_1.0"],
        "description": "Very simple connector to pull 7 day forecast for 5 cities around US.",
        "source_code": "https://github.com/collinsteele/collinsteele.github.io"
+   },
+    {
+       "name": "Patternchain - Startup Analyzer",
+       "url": "https://patternchain.com/tableau/wdc.html",
+       "author": "Patternchain",
+       "github_username": "leandromlopes",
+       "tags": ["v_1.0"],
+       "description": "Patternchain connector to pull startups data and insights.",
+       "source_code": "https://patternchain.com/tableau"
    }
     
 ]
